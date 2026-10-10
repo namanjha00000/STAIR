@@ -5,8 +5,7 @@
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.100%2B-009688.svg)](https://fastapi.tiangolo.com/)
 [![Ollama](https://img.shields.io/badge/LLM-Local%20Ollama-black.svg)](https://ollama.com/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Status](https://img.shields.io/badge/Status-Fully%20Functional-brightgreen.svg)](#)
+
 
 **A structure-aware RAG implementation using local Ollama LLMs and FastAPI.**  
 *Based on the paper: "STAIR: STructure-Aware Information Retriever for Generative Retrieval".*
